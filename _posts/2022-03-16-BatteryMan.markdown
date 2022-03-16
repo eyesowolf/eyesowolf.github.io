@@ -5,7 +5,7 @@ date: '2022-03-16'
 categories: UnrealEngine
 tags: C++, Beginner, UnrealEgnine
 ---
-![Battery Man Screenshot](/assets/images/posts/16-03-22/Battery%20Man/BatterMan.png)
+![Battery Man Screenshot](/assets/images/posts/16-03-22/BatteryMan/BatterMan.PNG)
 We all start somewhere when it comes to learning a new skill. Tutorials that walk you through a process from beginning to end are an excelent way to start gaining some initial confidence. For me Unreal Engine was a natural choice as I wanted to learn game development and C++. So after setting up my development environment and installing Unreal Engine, I set out to discover what tutorials existed that would help me learn and understand how everything works together. After some searching I found an [Unreal Engine C++ tutorial](https://www.youtube.com/watch?v=LsNW4FPHuZE&t=17s&ab_channel=freeCodeCamp.org) provided by freeCodeCamp.org which included three simple games which increase in complexity.  The first of which was a battery collector game I refer to as *Battery Man*. My completed version of the game can be found on my GitHub ([here](https://github.com/eyesowolf/BatteryManCpp))
 ### Project Overview
 *Battery Man* is a very simple 3rd person game where the player runs around a small map collecting "Batteries". The player must collect batteries to survive as there is a charge meter that diminishes over time. If the charge meter reaches 0 the player dies.
